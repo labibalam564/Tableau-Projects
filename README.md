@@ -1,2 +1,2 @@
 # Tableau-Projects
-A repository containing Tableau dashboards and projects I've worked on
+This repository houses dashboards and reports I've created as personal projects using Tableau.
