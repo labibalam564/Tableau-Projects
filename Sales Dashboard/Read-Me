@@ -3,3 +3,21 @@ This is a Tableau Dashboard I've created using some sample sales data found onli
 in creating insightful and interactive business intelligence solutions. For those that do not have Tableau access, feel free to take a look
 at the screenshots of the dashboard uploaded in the repository or download Tableau Public along with this Tableau Packaged workbook to view
 in greater detail!
+
+This dashboard analyzes sales and customer data from the given dataset. 
+
+On the Sales side, this dashboard analyzes sales, quantity sold, and profit by comparing data from the year selected by the user (2023 by
+default) and the previous year in the form of BANs with the current totals, as well as the year over year growth percentage. This dashboard
+provides analysis for sales and profit by product subcategory by comparing the selected year against the previous year while also displaying
+the degree of profitability for that year. The final element of the sales dashboard is the trends chart which shows sales and profit trends 
+on a weekly basis with a weekly average as the reference line. This distinguishes the week of the year the business saw exceptional and poor
+performance and allows for further, in-depth analysis.
+
+On the Client side, this dashboard analyzes total customer growth, sales per customer, and total orders in the same format of BANs. Using a 
+histogram, I am able to illustrate a distribution of customers based on the number of orders they've completed, providing further insight
+into client purchasing behaviour that could be leveraged in a real-world scenario. Lastly, I've inserted a list of the top 10 clients by
+profit generated in descending order. 
+
+Both dashboards provide high interactivity and allows users to adjust the filters to see the data that is relevant to them. Additionally, the
+buttons at the top of each page allow users to navigate between the dashboards without having to select from the tabs at the bottom of the
+Tableau window.
